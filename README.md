@@ -1,26 +1,12 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
 ### Soy Wilszone Técnico y estudiante de la carrera en Ing. de Sistemas e Informática con experiencia en gestión pública, especializado en sistemas administrativos...  
-  
-
 - Actualmente estoy trabajando en un proyecto Desarrollando un aplicativo.  
-  
-
 - Soy estudiante de la carrera en Ing. de Sistemas e Informática con experiencia en gestión pública, especializado en sistemas administrativos  
-  
-
 - Además, poseo certificaciones otorgadas por el Organismo Supervisor de las Contrataciones del Estado (OSCE) en los niveles básico e intermedio, lo que respalda su competencia en procesos de contratación pública.  
-  
-
 - En el ámbito laboral, ha desempeñado funciones como Asistente Administrativo en la Municipalidad Distrital de Ollantaytambo  
-  
-
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
